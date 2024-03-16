@@ -1,8 +1,19 @@
-# <div  align="center">Hi there, I'm Abdul Muizz! 👋</div>
-## Welcome to My GitHub Profile!
+<body>
+  <div align="center">
+    <h1> Hi there, I'm Abdul Muizz👋<a href="#"></h1>
+  </div>
+<p align="center">
+<a href="https://github.com/AbdulMuizzFayyaz"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Backend+Developer&center=true&width=500&height=50"></a>
 
-## About Me
+### Welcome to My GitHub Profile!
 Hello there! I'm Abdul Muizz, a passionate student with a knack for learning and exploring new technologies. I completed my matriculation from **Bahria College Karsaz** and I'm currently pursuing my intermediate education at **DJ Sindh Govt. Science College**. Recently, I delved into the world of programming with Python through **Bano Qabil 2.0** and I'm eager to deepen my knowledge in this field. Alongside Python, I also have a keen interest in Cybersecurity and aspire to become proficient in securing digital systems.
+
+This README serves as an introduction to who I am and what I am currently focusing on in my learning journey.
+
+- 🌱 Successfully complete Bano Qabil 2.0 Python Programming course.
+- 👯 Looking forward to collaborating with other developers on interesting projects.
+- 🥅 My goals for this learning phase are to gain a solid foundation in Python development and apply my skills to real-world projects.
+- 💎 If you have any suggestions, resources, or opportunities related to Python development, feel free to connect with me.
 
 ## Skills
 - **Programming**: Python
